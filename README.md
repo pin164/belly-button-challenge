@@ -1,9 +1,9 @@
 # belly-button-challenge
  code source location within the repository
  
- app5.js is the 5th and working version of the javascript to create the interactive dashboard
+static/ app5.js is the 5th and working version of the javascript to create the interactive dashboard
  
- app_original.js is the original fill in the blank javascript file
+static/ app_original.js is the original fill in the blank javascript file
   
 I have NOT worked with a peer on an assignment, 
 
